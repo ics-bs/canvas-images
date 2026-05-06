@@ -9,6 +9,7 @@ Each design instruction is inserted after this base-prompt sentence:
 
 ## bachelors-programme/semester-1-sysa21-blueprint-blue
 
+- SYSA21, Introduction to Information Systems: a central introductory information-system project map where a business need block transforms into a designed system prototype, supported by an AI-assisted development module, a research evidence panel, and a clear presentation pathway.
 - Business, IT and Digitalization: a central digital business flow with three large connected forms: an organization block, an IT platform block, and a customer service channel, linked by broad information-flow arrows.
 - Information Systems as a Subject: a large socio-technical systems triad with three connected pillars for people, process, and technology surrounding one central information system core.
 - Software Development: a central software construction motif with large modular code-free components, a simple control-flow path, and one application frame assembled from clean geometric blocks.
@@ -26,6 +27,7 @@ Each design instruction is inserted after this base-prompt sentence:
 
 ## bachelors-programme/semester-3-sysb23-emerald-green
 
+- SYSB23, Information Systems and Business Development: a central business-development architecture where a process model, data platform, decision model, and enterprise architecture stack align around one evolving information system, with a subtle security and ethics boundary framing the solution.
 - Databases: a central relational database model with one large database cylinder, a few table blocks, key connectors, and a clean query path through the data structure.
 - Strategy and Management Control: a central strategy and control dashboard with a compass-like direction marker, performance gauge shapes, and a feedback loop connecting goals to decisions.
 - Enterprise Architecture: a central enterprise architecture stack with large business, application, data, and technology layers connected by a few vertical alignment lines.
@@ -74,3 +76,4 @@ Each design instruction is inserted after this base-prompt sentence:
 
 - EIN002F, Design Science Research in Information Systems: a central design science artifact surrounded by a problem context, knowledge base, evaluation cycle, and iterative build-evaluate pathway.
 - EIN003F, Emerging Topics in Information Systems: a central research frontier map with emerging technology nodes, socio-technical system layers, uncertainty paths, and a future-oriented information systems horizon.
+- EIN005F, Introduction to Philosophy of Technology: a central philosophy-of-technology inquiry model with a reflective human-technology relation, a modern technology artifact, layered analytical and phenomenological perspective frames, and a critical theory lens connecting technology, science, society, ethics, and everyday life.
