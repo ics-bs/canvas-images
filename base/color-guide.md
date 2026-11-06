@@ -14,6 +14,9 @@ For each banner family, use a **single hue family**:
 ### Semester 1, SYSA21, Introduction to Information Systems — Blueprint Blue
 **Color prompt:** deep blueprint-blue background, pale blue-white technical linework, lighter cyan-blue object highlights, restrained monochrome blue blueprint palette
 
+**Main course**
+- SYSA21, Introduction to Information Systems
+
 **Subcourses**
 - Business, IT and Digitalization
 - Information Systems as a Subject
@@ -32,8 +35,11 @@ For each banner family, use a **single hue family**:
 - IT Law
 - Information Systems Project
 
-### Semester 3, SYSB23, Information Systems- and Business Development — Emerald Green
+### Semester 3, SYSB23, Information Systems and Business Development — Emerald Green
 **Color prompt:** deep emerald-green background, pale mint-green technical linework, lighter emerald object highlights, restrained monochrome green blueprint palette
+
+**Main course**
+- SYSB23, Information Systems and Business Development
 
 **Subcourses**
 - Databases
@@ -100,3 +106,4 @@ For each banner family, use a **single hue family**:
 **Courses**
 - EIN002F, Design Science Research in Information Systems
 - EIN003F, Emerging Topics in Information Systems
+- EIN005F, Introduction to Philosophy of Technology
