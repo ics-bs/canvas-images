@@ -17,6 +17,8 @@ Each design instruction is inserted after this base-prompt sentence:
 
 ## bachelors-programme/semester-2-sysa12-muted-gold
 
+- SYSA12, Information Systems and Business: a unified people-organization-system composition: three large abstract team nodes beside a stepped organization structure and a prominent interface panel, joined by a broad project lifecycle arc; a small balanced-scale motif integrated into the arc subtly represents IT law, while the interface represents user-centered design.
+
 - Organizations, Business and Information Systems: a central enterprise map with large organizational units, an information system platform, and broad data-flow routes connecting business operations to digital support.
 - Interaction Design: a central interaction design workspace with two large wireframe screens, a cursor or touch target, and a simple user journey path connecting key interface states.
 - Project Management: a central project planning board with milestone blocks, dependency lines, and a simple timeline arc leading toward one clear delivery marker.
@@ -35,6 +37,8 @@ Each design instruction is inserted after this base-prompt sentence:
 - Information Systems Project: a semester-three project synthesis showing a central enterprise solution connected to a database model, strategy dashboard, process improvement loop, security perimeter, and responsibility markers.
 
 ## bachelors-programme/semester-4-sysb24-rose-magenta
+
+- SYSB24, IT Architecture and Software Systems: one prominent exploded software architecture stack with three large layers for a web interface, modular application components, and a database foundation; two substantial service blocks connect to the stack through clean integration bridges, and one restrained surrounding delivery loop with a single quality checkpoint unifies architecture, integration, governance, and software improvement.
 
 - Program Design: a central program design structure with large function blocks, a clear control-flow route, and nested component frames showing how logic is organized.
 - Integration Technologies: a central integration hub with large API gateway shapes, service endpoints, and message channels flowing between a few distinct systems.
